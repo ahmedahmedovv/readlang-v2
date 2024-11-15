@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "URL Logger",
   "version": "1.0",
-  "description": "Shows current URL in console",
+  "description": "Readlang - Speak of Content",
   "permissions": ["activeTab", "storage"],
   "content_scripts": [
     {
